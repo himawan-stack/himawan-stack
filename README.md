@@ -11,7 +11,7 @@ Here's what I am up to right now:
 - 👯 **I’m looking to collaborate on:** Open-source prompt libraries, AI guardrail frameworks, or improving documentation for open-source AI tools.
 - 🤔 **I’m looking for help with:** Finding the best ways to automate linguistic quality assurance at scale without losing the "human" voice.
 - 💬 **Ask me about:** Transitioning from UX Writing to AI Content Engineering, managing LLM hallucinations, conversation design (Dialogflow), and why a good system prompt is worth its weight in gold.
-- 📫 **How to reach me:** [linkedin.com/in/himawanpradipta](https://www.linkedin.com/in/himawanpradipta)
+- 📫 **How to reach me:** [linkedin.com/in/himawanpradipta](https://www.linkedin.com/in/himawanpradipta) or you can drop me an email at himawanprd@gmail.com.
 - ⚡ **Fun fact:** I speak Indonesian, English, and fluent "LLM system prompt." 
 
 ### 🛠️ My AI & content toolbox
