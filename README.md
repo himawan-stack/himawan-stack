@@ -1,6 +1,6 @@
 # Hi there, I'm Himawan 👋
 
-**Senior AI Content Engineer | System Prompt Architect | Ex-UX Writer**
+**Senior AI Content Engineer | System Prompt Architect | UX Writer**
 
 I don’t write code to build software; I engineer words, logic, and context to train, guide, and evaluate Large Language Models. I spent years mapping out conversation designs and UX content, which turned out to be the ultimate training ground for taming today's AI. 
 
